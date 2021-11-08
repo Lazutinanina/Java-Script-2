@@ -1,0 +1,23 @@
+.product-item {
+    border: 1px solid greenyellow;
+    width: 200px;
+    height: 200px;
+    background-color: lightcyan;
+}
+.btn-cart {
+    background-color: hotpink;
+    color: ivory;
+}
+.by-btn {
+    background-color: hotpink;
+    color: ivory;    
+}
+.products {
+    display: flex;
+    justify-content: space-evenly;
+}
+header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
